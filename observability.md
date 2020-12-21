@@ -11,6 +11,7 @@ about specific technogies that can be used to implement observability.
 
 * [Observability: Superpowers for Developers](https://www.youtube.com/watch?v=1C5eErvSvR4) (45 min)
 * [OpenTelemetry is Eating the World](https://www.youtube.com/watch?v=DbaO0Xxv34c) (60 min)
+* [Deep Linking Metrics and Traces with OpenTelemetry](https://www.youtube.com/watch?v=TzNZIEvhAdA) (37 min)
 * [The Future of Observability](https://www.youtube.com/watch?v=MkSdvPdS1oA) (15 min)
 
 ## Logs
@@ -20,7 +21,7 @@ about specific technogies that can be used to implement observability.
 
 ## Metrics
 
-* [How Prometheus Works] by Nana Janashia](https://www.youtube.com/watch?v=h4Sl21AKiDg) (21 minutes)
+* [How Prometheus Works](https://www.youtube.com/watch?v=h4Sl21AKiDg) (21 minutes)
 * Grafana
 * Exporters (node, jmx, etc)
 * Federation
