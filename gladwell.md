@@ -10,7 +10,7 @@ Engineering.
 ## [Why Do Planes Crash?](https://www.youtube.com/watch?v=a4TXS7ck8bQ)
 
 > Gladwell talks about one of the chapters from his book 
-> "Outliers"(https://www.gladwellbooks.com/titles/malcolm-gladwell/outliers/9780316040341/)
+> [Outliers](https://www.gladwellbooks.com/titles/malcolm-gladwell/outliers/9780316040341/)
 > to illustrate how failures in cockpit communication can lead to catasrophic 
 > outcomes in commercial aviation.  In his talk he discusses 
 > [Avianca Flight 52](https://en.wikipedia.org/wiki/Avianca_Flight_52) and
@@ -87,9 +87,55 @@ way companies run their operations.
 
 ## [Overconfidence and the Economic Crisis](https://www.youtube.com/watch?v=BN4yTXGhU0Q)
 
+> In this talk at the New Yorker Summit on May 5th, 2009, Malcolm
+> uses examples of military battles to illustrate how miscalibration
+> contributed to the financial crisis of 2008.  For a similar talk,
+> see his talk at [High Point University in 2012](https://www.youtube.com/watch?v=7rMDr4P9BOw).
+
+The risk of miscalibration is an ever present danger in software
+development.  As developers rely on metrics and data to improve
+their confidence in ever larger and more complex applications, they
+risk falling into the belief that they can anticipate any failure.
+As they perform security scans and automated testing, they can become
+complacent in the belief that they can prevent security holes.
+However, the risk of a catastrophic failure or security breach
+is ever present and any disaster recovery plans should account
+for all reasonable possibilities.
+
 ## [Income Inequality](https://www.youtube.com/watch?v=iKvFlSedpNI)
 
+> At The New Yorker Festival in 2014, Gladwell talks about how
+> [Marvin Miller](https://en.wikipedia.org/wiki/Marvin_Miller),
+> head of the Major League Baseball Players Association from 1966
+> to 1982, was one of the leading figures to bring about the
+> extraordinary income inequality in 1975.
+
+This talk is particularly interesting when considered in the context
+of salary negotiations and the trade-offs we make when negotiating
+our salary.  Not all factors are monetary, and as freedom and
+flexibility become more important, salary offers and negotiations
+reflect a wider range of variables to consider.
+
 ## [The Dark Side of How We Think Without Thinking: Amadou Diallo](https://www.youtube.com/watch?v=1MQav8p2fJA)
+
+> In this talk and his book [Blink](https://www.gladwellbooks.com/titles/malcolm-gladwell/blink/9780316005043/),
+> Malcom uses the shooting of Amadou Diallo an example of how
+> stressful situations and time pressure radically shape the way
+> our minds process information.
+
+Beyond the tradgedy of Amadou's death and what it says about
+racism and police training in this country, there are other
+aspects that can be applied to everyday office settings.  Situations
+where time is compressed and unplanned tasks are undertaken,
+the opportunity for snap judgements abound.  This is one of the
+reasons why Change Requests require both an implementation plan
+and a backout plan to be provided in detail.  Not only is it
+important for the approvers to review this information, but also
+for the implementer to reference it during a change to ensure
+that a planned course of action has been prepared ahead of time.
+If something goes wrong during the maintenance, the pressure of
+trying to restore service without a detailed plan often leads
+to mistakes which can make the situation even worse or unrecoverable.
 
 ## [Talking to Strangers](https://www.youtube.com/watch?v=M-l8d9lJTiw)
 
