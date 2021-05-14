@@ -14,6 +14,7 @@ The training has been grouped into the following areas:
 * [Observability](observability.md)
 * [Kafka](kafka.md)
 * [DevOps](devops.md)
+* [Malcolm Gladwell](gladwell.md)
 
 My approach to this training material is to collect articles and videos
 which provide a general overview of a particular topic.  The goal is to
